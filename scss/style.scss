@@ -54,7 +54,7 @@
 
 @keyframes directions-line {
     0% {
-        padding: 0.4rem 1.35rem;
+        padding:  4px 13.5px;
     }
 
     50% {
@@ -596,7 +596,7 @@ html {
                             &::before {
                                 content: "";
                                 display: inline-block;
-                                padding: 0.4rem 1.35rem;
+                                padding: 4px 13.5px;
                                 background-color: $hoverColor;
       
                             }
